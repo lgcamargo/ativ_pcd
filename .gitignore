@@ -1,0 +1,10 @@
+# .gitignore para o repositório ativ_pcd
+# Ignorar executáveis gerados (.exe)
+*.exe
+
+# Arquivos e artefatos comuns (opcional)
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+*.pyc
